@@ -1,0 +1,131 @@
+# def sum(n):
+
+#     if n == 1:
+#         return 1
+#     else:
+#         return n + sum(n - 1)
+# n = int(input("Enter a number: "))
+# result = sum(n)
+# print(result)
+
+# print num 1 to n
+# n to 1
+# using a recursion function find the fibonacci number
+
+# def num(n):
+#     if n == 0:
+#         return
+#     num(n - 1)
+#     print(n)
+
+# n = int(input("Enter a number: "))
+# num(n)
+
+def num(n):
+    if n<=1:
+        return n
+    else:
+        return num(n-1)+num(n-2)
+n=int(input("Enter a number :"))
+num(n)
+
+find the sum of digit of a given Number
+reverse a string 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
